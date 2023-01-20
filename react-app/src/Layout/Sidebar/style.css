@@ -1,0 +1,10 @@
+.sidebar {
+    background-color: #aa1111;
+    width: 200px;
+    height: 100%;
+  }
+  
+  .sidebar > h4 {
+    text-align: center;
+  }
+  
